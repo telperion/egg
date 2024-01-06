@@ -3,7 +3,7 @@
     "data_url":"https://raw.githubusercontent.com/telperion/egg/main/egg_data.json",
     "symbol":"卵",
     "tag":"卵",
-    "level_order":["0","1","2","3","4","5","6","7","8","9","10","11","12","X","Z"],
+    "level_order":["0","1","2","3","4","5","6","7","8","9","10","11","12","13"],
     "course":[[
       {"name":"14K乱打難易度表 卵0","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
         "charts": [
@@ -278,10 +278,10 @@
             "sha256": "097fbb24d6466a1cc88ec890b65525a7e4768ef09ccbdf6553f45d5ec1281f71"
           },
           {
-            "title": "14K乱打練習 [140BPM 16分 / 1.25重16分]",
+            "title": "14K乱打練習 [140BPM 両手1.25重16分]",
             "subtitle": "",
             "artist": "方大炮 a.k.a. DP FAN",
-            "sha256": "8ed0c9b7a627bd1abc71681fe8fd6f3c193daf3bcaa4996df3a6b332bbeb11d3"
+            "sha256": "5ba7961c1b5ddae132d8c9aacc17540b7e4e34bdd43dc13b548d9ef65bf597c5"
           }
         ]
       },
