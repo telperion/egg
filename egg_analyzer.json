@@ -1,0 +1,373 @@
+{
+    "name":"14K乱打難易度表",
+    "data_url":"https://raw.githubusercontent.com/telperion/egg/main/egg_analyzer.json",
+    "symbol":"卵",
+    "tag":"卵",
+    "level_order":["0","1","2","3","4","5","6","7","8","9","10","11","12"],
+    "course":[[
+      {"name":"14K乱打難易度表 卵0","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+        "charts": [
+          {
+            "title": "14K乱打練習 [60BPM 0.75重16分 / 16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "12d401793756ac68cdc89470be6ca5abfd87f37a7ce5e21f35741505a29d6f88"
+          },
+          {
+            "title": "14K乱打練習 [80BPM 8分 / 16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "00406495d2b7ffb06e00986a4efa508bd1eae5634a23173c5c5c3de6cd972a44"
+          },
+          {
+            "title": "14K乱打練習 [60BPM 両手16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "8563dd65a2271ae241ee75e059a368aaf4471ac26dccf2c4279ad8f7c49eec61"
+          },
+          {
+            "title": "14K乱打練習 [80BPM 0.75重16分 / 16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "f1ca1b528e3ba166f686c4d0c9a08c3f4e45ccf6834c30a31d8e3833f1f22c7c"
+          }
+        ]
+      },
+      {"name":"14K乱打難易度表 卵1","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+        "charts": [
+          {
+            "title": "14K乱打練習 [60BPM 両手16分+皿着地]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "0219e267145d0dd5990e4b440f8d075246fd6dc9f70c561d1f1f25bae2c4c105"
+          },
+          {
+            "title": "14K乱打練習 [100BPM 8分 / 16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "ffd48a31109b7f14a61b16263434b5a64c590a68c8664ebb676df37ca75f2064"
+          },
+          {
+            "title": "14K乱打練習 [80BPM 両手16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "af2c76096ff9d3d866f818128d8bc57281d7ea6cf09ef2ef30151aa5fd2ea600"
+          },
+          {
+            "title": "14K乱打練習 [60BPM 16分 / 1.25重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "9e83371352d3ffb17eeb58bb54e5516a97b222ad355f61d7ba5eccb22c969d33"
+          }
+        ]
+      },
+      {"name":"14K乱打難易度表 卵2","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+        "charts": [
+          {
+            "title": "14K乱打練習 [80BPM 両手16分+皿着地]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "a2609e5cb61b64d0bce7fbc415e3b44149289bb95ef6282c3e8c8e2340b4a358"
+          },
+          {
+            "title": "14K乱打練習 [100BPM 0.75重16分 / 16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "10921c76a0b625a6bb142de73183404820a1265a9212969cf739cbcea1b21e1e"
+          },
+          {
+            "title": "14K乱打練習 [60BPM 1.25重16分 / 1.5重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "0dd2c2e64f793eb0970b6ffc38aa0653a04f79071f21337761823e1ce5a69ccf"
+          },
+          {
+            "title": "14K乱打練習 [80BPM 16分 / 1.25重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "c69be82657120f76beadb8194716b2defd8473a83a84f9ae985a92d36f5f1fe4"
+          }
+        ]
+      },
+      {"name":"14K乱打難易度表 卵3","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+        "charts": [
+          {
+            "title": "14K乱打練習 [120BPM 8分 / 16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "bc1089d4022398711416ea310d1edd69357a6fb6ab8d19ea64b8bd4944ff5234"
+          },
+          {
+            "title": "14K乱打練習 [80BPM 両手1.25重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "86e69e7f1beffeab12edb861e8b087d7c9179d9072a7e7550773489e58f5698f"
+          },
+          {
+            "title": "14K乱打練習 [60BPM 両手1.5重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "1a4ca99a0373eb59d9b59b0127a6d52e4be094ec4f75e09889bd590fbcf9fa6d"
+          },
+          {
+            "title": "14K乱打練習 [100BPM 両手16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "8294cfaa99ba33688c4d365ec7462f12b3dd3c8886a5c65dc622235be9c3c297"
+          }
+        ]
+      },
+      {"name":"14K乱打難易度表 卵4","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+        "charts": [
+          {
+            "title": "14K乱打練習 [140BPM 8分 / 16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "13150362e24bd57b7126dc5380c9cc2ceba6042261ed2d2f45c6546b46dfe64d"
+          },
+          {
+            "title": "14K乱打練習 [80BPM 両手1.5重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "6edbec9c3ee9e88b2474541978a913d2087d8679dc0ccc755da279ab8eae5f4c"
+          },
+          {
+            "title": "14K乱打練習 [120BPM 0.75重16分 / 16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "13bbc87bb30984bafebfbaeb541ff0c444d2de36a63229804071119dcc4d2e25"
+          },
+          {
+            "title": "14K乱打練習 [100BPM 16分 / 1.25重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "fc5f9287f5f25ea9228e26878f55f39dcf9e00436e673c4869789840cbdafdf8"
+          }
+        ]
+      },
+      {"name":"14K乱打難易度表 卵5","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+        "charts": [
+          {
+            "title": "14K乱打練習 [120BPM 両手16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "539f250f0e61ad287b6cb18c5e429f7ef887825be73adb9f3c7153459e296e9a"
+          },
+          {
+            "title": "14K乱打練習 [140BPM 0.75重16分 / 16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "33711bcc1beace609a0301d41f46fd08dece750b79e0d5b02939df0bcf3db135"
+          },
+          {
+            "title": "14K乱打練習 [80BPM 1.5重16分 / 1.75重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "d698ee56ae5af18f8f53d04985407abb533fb1307483d9390777a5c23de084a0"
+          },
+          {
+            "title": "14K乱打練習 [100BPM 両手1.25重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "6477d2545d5c6eed1e49a4f8862b250890b3b61523adff431c5b53492426353f"
+          }
+        ]
+      },
+      {"name":"14K乱打難易度表 卵6","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+        "charts": [
+          {
+            "title": "14K乱打練習 [160BPM 0.75重16分 / 16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "bfcd9b4f2b7059880934813868ac7dc729482077427dd4a4ab091f2258b99ebe"
+          },
+          {
+            "title": "14K乱打練習 [100BPM 1.25重16分 / 1.5重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "7bf66d0ef4c7453c1383931fb4eb247fc330da41d715cce9d6fa9e73c0417c53"
+          },
+          {
+            "title": "14K乱打練習 [140BPM 両手16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "34ee4984c2101c6eabbcc8f1c5b55ee1f67d16499450652505a882e009c4b063"
+          },
+          {
+            "title": "14K乱打練習 [120BPM 16分 / 1.25重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "74645ab85db53562739f93d83c559742250e1ec6195501fcb16319b327036e6a"
+          }
+        ]
+      },
+      {"name":"14K乱打難易度表 卵7","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+        "charts": [
+          {
+            "title": "14K乱打練習 [80BPM 両手1.75重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "6b83a4d25d949a08f25a9d3c13b1dbc19d6a985011d6e169ca8a199ade4bf3df"
+          },
+          {
+            "title": "14K乱打練習 [160BPM 8分 / 16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "989706507422ba65987d321f89000bf99c4647ce331a2674bc1333b3457bd6bc"
+          },
+          {
+            "title": "14K乱打練習 [60BPM 両手二重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "5054b620e3ce6a12850daa516cfe29b0306520df2ac4000eb7f43e61b846f249"
+          },
+          {
+            "title": "14K乱打練習 [100BPM 両手1.5重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "1cc804648605aef9e56ee03f7434d33e07c5a53dd88075de2626d0c85ac81321"
+          }
+        ]
+      },
+      {"name":"14K乱打難易度表 卵8","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+        "charts": [
+          {
+            "title": "14K乱打練習 [100BPM 1.5重16分 / 1.75重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "858068fe147b9d556b6028c0b0a3379afe274c9c7e31236acffbdb6fec075893"
+          },
+          {
+            "title": "14K乱打練習 [160BPM 両手16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "8c5b518e920319c7f4912299d9ef88e9ee9e38c715f9df9407077bccb76eb499"
+          },
+          {
+            "title": "14K乱打練習 [80BPM 1.75重16分 / 二重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "253266cfaa3d85fc377d45e99cd23ebe7aa4dae80779fd4ed514ece3bf33dd06"
+          },
+          {
+            "title": "14K乱打練習 [120BPM 両手1.25重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "4a2473b981826f69129c9d1df92307a51ffc51f45691967999bea1f4acb4a2c9"
+          }
+        ]
+      },
+      {"name":"14K乱打難易度表 卵9","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+        "charts": [
+          {
+            "title": "14K乱打練習 [120BPM 1.25重16分 / 1.5重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "eec3f793f1d4c28dc374c876205618e0d2d243a1aaf092371430d0293a8ee263"
+          },
+          {
+            "title": "14K乱打練習 [180BPM 0.75重16分 / 16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "8667c474f3a4fc8df072b545ea90c0864af2d37684ebddd71bfd213452c1a022"
+          },
+          {
+            "title": "14K乱打練習 [100BPM 両手1.75重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "097fbb24d6466a1cc88ec890b65525a7e4768ef09ccbdf6553f45d5ec1281f71"
+          },
+          {
+            "title": "14K乱打練習 [140BPM 16分 / 1.25重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "8ed0c9b7a627bd1abc71681fe8fd6f3c193daf3bcaa4996df3a6b332bbeb11d3"
+          }
+        ]
+      },
+      {"name":"14K乱打難易度表 卵10","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+        "charts": [
+          {
+            "title": "14K乱打練習 [160BPM 16分 / 1.25重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "8763cd0b640567b4e13a606f55c5d9c36178e78ab55d1759e13d07ea9d7dabf8"
+          },
+          {
+            "title": "14K乱打練習 [200BPM 0.75重16分 / 16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "282f55e5343fe152fc14c2aed8964f5e448963908729dab55786fd5cc10c8393"
+          },
+          {
+            "title": "14K乱打練習 [120BPM 両手1.5重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "489e0ca19ce251ecce619128b87bb13a95cc8ff2d9b167f62b6c2d5355721088"
+          },
+          {
+            "title": "14K乱打練習 [180BPM 両手16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "be1cc389b12db12e5568d93dffba281656521aa1ceb2879f086ca970fe517230"
+          }
+        ]
+      },
+      {"name":"14K乱打難易度表 卵11","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+        "charts": [
+          {
+            "title": "14K乱打練習 [140BPM 1.25重16分 / 1.5重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "1f1b79c6be36b2d0caf3a2136fe081b235378a8803be33951f2d229aec0cace3"
+          },
+          {
+            "title": "14K乱打練習 [180BPM 16分 / 1.25重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "25524d05a80677ad45003d6408e944a79a72d3c248d68fc7cae5c5f5a9652ead"
+          },
+          {
+            "title": "14K乱打練習 [120BPM 1.5重16分 / 1.75重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "0fdd4817351598bdcf9acb24ecfe0e8721c4b005627df3a99880516101f1863e"
+          },
+          {
+            "title": "14K乱打練習 [160BPM 両手1.25重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "3022b51704def81ceaa68c8adf6e0b1a28b95226834d3e0200cf33bcdd0e58b2"
+          }
+        ]
+      },
+      {"name":"14K乱打難易度表 卵12","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
+        "charts": [
+          {
+            "title": "14K乱打練習 [160BPM 1.25重16分 / 1.5重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "7b8ab8192fa08459226e7dc56e91494a083d196c3cd13380369e9a924d8d060e"
+          },
+          {
+            "title": "14K乱打練習 [200BPM 16分 / 1.25重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "b2d0845cda1d22a6f4e42e9d9e204d719e2b00b70b3b45f9b28593ff08df60b6"
+          },
+          {
+            "title": "14K乱打練習 [140BPM 両手1.5重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "04bb408cb542186aded7db0d7f80255711ef4e7d3a1e4a27edb31e1b1c5e9271"
+          },
+          {
+            "title": "14K乱打練習 [180BPM 両手1.25重16分]",
+            "subtitle": "",
+            "artist": "方大炮 a.k.a. DP FAN",
+            "sha256": "b1153d3bd46b68c145826dc1b4cacba7c50563734a6eeb00c0a71cfac09475dd"
+          }
+        ]
+      }
+    ]]
+  }
