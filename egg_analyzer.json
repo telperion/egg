@@ -1,9 +1,9 @@
 {
     "name":"14K乱打難易度表",
-    "data_url":"https://raw.githubusercontent.com/telperion/egg/main/egg_analyzer.json",
+    "data_url":"https://raw.githubusercontent.com/telperion/egg/main/egg_data.json",
     "symbol":"卵",
     "tag":"卵",
-    "level_order":["0","1","2","3","4","5","6","7","8","9","10","11","12"],
+    "level_order":["0","1","2","3","4","5","6","7","8","9","10","11","12","X","Z"],
     "course":[[
       {"name":"14K乱打難易度表 卵0","constraint":["grade_random","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],
         "charts": [
